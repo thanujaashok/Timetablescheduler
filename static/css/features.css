@@ -1,0 +1,200 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.features-mnR {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.features-mnR .background-6Ju {
+  box-sizing: border-box;
+  padding: 0.6rem 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.features-mnR .background-6Ju .header-qGV {
+  width: 100%;
+  height: 78.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh {
+  margin-bottom: 14.5rem;
+  box-sizing: border-box;
+  padding: 1.4rem 7.8rem 1.2rem 4.7rem;
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .image-1-fmK {
+  margin: 0rem 33.4rem 0.9rem 0rem;
+  width: 10.1rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .menu-yX7 {
+  margin: 1.6rem 25.5rem 1.4rem 0rem;
+  height: calc(100% - 3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .menu-yX7 .home-W1F {
+  margin-right: 10rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .menu-yX7 .features-Re1 {
+  margin-right: 10rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .menu-yX7 .explore-ZVK {
+  margin-right: 10.1rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .menu-yX7 .about-JSu {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-ihsf-yNh .button-primary-2Nu {
+  margin-top: 0.1rem;
+  width: 9.4rem;
+  height: 5.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f40a8;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV {
+  margin: 0rem 3.2rem 0rem 4.6rem;
+  width: calc(100% - 7.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 {
+  margin-right: 2.4rem;
+  max-width: 86.5rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-0 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-1 {
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-3 {
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-4 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-5 {
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-6 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-7 {
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-8 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-9 {
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-10 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1f40a8;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1 .comprehensive-functionality-empowers-administrators-for-adding-and-editing-courses-and-facultiesprovides-flexibility-in-course-details-management-timetable-management-ensures-up-to-date-and-adaptable-timetablesfacilitates-easy-access-for-students-and-teachers-effective-communication-promotes-transparency-in-scheduling-informationenhances-communication-and-planning-for-a-smooth-educational-experience-user-friendly-approach-offers-a-user-friendly-platform-for-both-students-and-teachers-ai-driven-scheduling-utilizes-ai-algorithms-for-optimized-schedulesconsiders-factors-like-faculty-availability-and-preferences-efficient-process-ensures-a-seamless-and-efficient-scheduling-processapplies-specific-rules-and-priorities-for-scheduling-theory-and-practical-courses-cc1-sub-11 {
+}
+.features-mnR .background-6Ju .header-qGV .auto-group-kkft-VGV .item-20944370-1-nkh {
+  margin-bottom: 2rem;
+  width: 47.3rem;
+  height: 50.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>edit</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%3A700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C500%2C600%2C700"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A600"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700"/>
+  <link rel="stylesheet" href="static\css\facultyedit.css"/>
+  
+
+</head>
+<body>
+
+<div class="edit-xtH">
+  <div class="auto-group-n28h-W97">
+    <div class="leftnavbar-3uj">
+      <div class="auto-group-zdny-ncR">
+        <div class="auto-group-wso7-vid">
+          <div class="group-2-3YM">
+            <img class="mastercard-logo-CRF" src="static\images\mastercard-logo-Qn5.png"/>
+            <div class="welcome-KEy">
+            WELCOME
+            <br/>
+            
+            </div>
+          </div>
+        </div>
+        <div class="auto-group-oxzf-neM">
+          <div class="rectangle-2-8iD">
+          </div>
+          <img class="group-1-fTF" src="static\images\group-1-14u.png"/>
+          <div class="course-QQq">COURSE</div>
+          <img class="books-UvV" src="static\images\books-iNu.png"/>
+          <div class="group-33-QJM">
+            <div class="rectangle-19-LSu">
+            </div>
+            <img class="group-sBw" src="static\images\group-8yf.png"/>
+            <img class="bottom-Ck1" src="static\images\bottom-GZX.png"/>
+            <p class="admin-Y3B">Admin</p>
+          </div>
+          <div class="group-32-dKX">
+            <div class="rectangle-17-AKT">
+            </div>
+            <img class="geeme069-JAm" src="static\images\geeme069-Dn9.png"/>
+            <img class="bottom-RmB" src="static\images\bottom-7NH.png"/>
+            <p class="student-NgR">Student</p>
+          </div>
+          <div class="group-31-6MX">
+            <div class="rectangle-18-31s">
+            </div>
+            <img class="group-B85" src="static\images\group-E1P.png"/>
+            <img class="bottom-h6R" src="static\images\bottom-o4M.png"/>
+            <p class="teacher-pwj">Teacher</p>
+          </div>
+        </div>
+      </div>
+      <div class="auto-group-75w7-8Sd">
+        <div class="group-12-5Ms">
+          <div class="group-10-v7b">
+            <img class="search-4Do" src="static\images\search-FyK.png"/>
+          </div>
+          <div class="group-11-bUd">
+            <img class="add-reminder-Xt5" src="static\images\add-reminder-T21.png"/>
+          </div>
+        </div>
+        <div class="group-7-rQZ">
+              
+          <div class="group-14-CAD">
+              <form action="{{ url_for('update_faculty') }}" method="post" onsubmit="return logButtonClick()">
+
+                  <p class="edit-course-details-gLH">Edit Faculty Details</p>
+                  
+                  <label for="faculty-name" class="course-id-k5F">Faculty Name</label>
+                  <input type="text" id="faculty-name" name="faculty-name" class="input-field" />
+
+                  <label for="course-name" class="course-unit-name-pau">Course Name</label>
+                  <input type="text" id="course-name" name="course-name" class="input-field" />
+          
+              
+                  <label for="credits-theory" class="lecturer-74D">Credits Theory</label>
+                  <input type="number" id="credits-theory" name="credits-theory" class="input-field" />
+          
+              
+                  <label for="credits-practical" class="credit-label">Credits Practical</label>
+                  <input type="number" id="credits-practical" name="credits-practical" class="input-field" />
+                  
+          
+                  <div class="auto-group-cwvt-2BB">
+                     <button type="button" id="closeButton" class="auto-group-n55s-YvD">Close</button>
+                     <button type="submit" class="auto-group-mddb-F3w">Update</button>
+
+                  </div>
+              </form>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+    <img class="line-1-Vys" src="static\images\line-1-2oj.png"/>
+  </div>
+</div>
+<script>
+       document.getElementById('closeButton').addEventListener('click', function () {
+           // Redirect to admin.html when the "Close" button is clicked
+           window.location.href = '/admin';
+       });
+   
+</script>
+</body>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timetable</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .empty {
+            background-color: #eee;
+        }
+
+        .break {
+            background-color: #b3e0ff;
+        }
+
+        .course {
+            background-color: #b3ffb3;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Timetable</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Day/Period</th>
+            <th>08:00-08:50</th>
+            <th>08:50-09:40</th>
+            <th>09:40-10:05</th>
+            <th>10:05-10:55</th>
+            <th>10:55-11:45</th>
+            <th>11:45-12:45</th>
+            <th>12:45-01:35</th>
+            <th>01:35-02:25</th>
+            <th>02:25-02:50</th>
+            <th>02:50-03:40</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        {% for day_data in timetable_data %}
+        <tr>
+            <td>{{ loop.index }} - {{ loop.index0 }}</td>
+            {% for period_data in day_data %}
+                <td class="{% if period_data == 'BREAK' %}break{% elif period_data == 0 %}empty{% else %}course{% endif %}">
+                    {% if period_data == "BREAK" %}
+                        {{ period_data }}
+                    {% elif period_data != 0 %}
+                        {{ period_data.name }}<br>
+                        {{ period_data.faculty }}<br>
+                        {{ period_data.type }}<br>
+                     {% elif period_data == 0 %}
+                        FREE
+                    {% endif %}
+                </td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+</body>
+</html>
